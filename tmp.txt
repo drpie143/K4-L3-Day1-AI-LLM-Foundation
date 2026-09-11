@@ -1,0 +1,89 @@
+ex1.1:
+Temperature=0.0, latency=4.62s
+Tất nhiên! Dưới đây là một số sự thật thú vị về Việt Nam:
+
+1. **Văn hóa và Lịch sử**: Việt Nam có một nền văn hóa phong phú và đa dạng, với lịch sử kéo dài hơn 4,000 năm. Văn hóa Việt Nam chịu ảnh hưởng từ Trung Quốc, Pháp và các nước láng giềng Đông Nam Á.
+
+2. **Ẩm thực**: Ẩm thực Việt Nam nổi tiếng với các món ăn như phở, bún chả, bánh mì, và gỏi cuốn. Các món ăn thường sử dụng nhiều rau thơm và gia vị, tạo nên hương vị đặc trưng.
+
+3. **Thiên nhiên**: Việt Nam có nhiều cảnh quan thiên nhiên tuyệt đẹp, từ vịnh Hạ Long với hàng ngàn đảo đá vôi, đến các ruộng bậc thang ở Sapa và các bãi biển tuyệt đẹp ở miền Trung và miền Nam.
+
+4. **Di sản Thế giới**: Việt Nam có nhiều di sản thế giới được UNESCO công nhận, bao gồm Cố đô Huế, Phố cổ Hội An, Thánh địa Mỹ Sơn, và Vịnh Hạ Long.
+
+5. **
+
+Temperature=0.5, latency=4.31s
+Tất nhiên! Dưới đây là một số sự thật thú vị về Việt Nam:
+
+1. **Di sản Thế giới**: Việt Nam là nơi có nhiều di sản thế giới được UNESCO công nhận, bao gồm Vịnh Hạ Long, Phong Nha-Kẻ Bàng, Cố đô Huế, Phố cổ Hội An và Thánh địa Mỹ Sơn.
+
+2. **Văn hóa ẩm thực**: Ẩm thực Việt Nam rất đa dạng và phong phú, nổi tiếng với các món như phở, bún chả, bánh mì, và gỏi cuốn. Nước mắm là một gia vị không thể thiếu trong nhiều món ăn Việt.
+
+3. **Lịch sử**: Việt Nam có lịch sử lâu đời với nhiều triều đại phong kiến. Nước này từng bị đô hộ bởi Trung Quốc trong nhiều thế kỷ và sau đó là thuộc địa của Pháp trước khi giành độc lập.
+
+4. **Địa lý**: Việt Nam có hình dáng dài và hẹp, kéo dài từ Bắc xuống Nam, với bờ biển dài khoảng 3,260 km. Địa hình đa dạng với núi non, đồng bằng và bờ biển đẹp.
+
+5.
+
+Temperature=1.0, latency=3.74s
+Tất nhiên! Dưới đây là một số sự thật thú vị về Việt Nam:
+
+1. **Văn hóa và lịch sử**: Việt Nam có nền văn hóa đa dạng và phong phú với hơn 4.000 năm lịch sử. Đất nước này đã trải qua nhiều giai đoạn lịch sử khác nhau, từ thời kỳ đồ đồng đến thời kỳ thuộc địa và cuối cùng là độc lập.
+
+2. **Thiên nhiên**: Việt Nam nổi tiếng với cảnh quan thiên nhiên tuyệt đẹp, từ những bãi biển dài tại Đà Nẵng, Nha Trang, đến vùng núi Tây Bắc với ruộng bậc thang ở Sapa. Vịnh Hạ Long, với hàng ngàn hòn đảo đá vôi, là một Di sản Thế giới UNESCO.
+
+3. **Ẩm thực**: Ẩm thực Việt Nam rất đa dạng và được yêu thích trên toàn thế giới. Một số món ăn nổi tiếng bao gồm phở, bún chả, gỏi cuốn, và bánh mì. Các món ăn Việt thường sử dụng nhiều loại rau thơm và gia vị, tạo ra hương vị đặc trưng.
+
+4. **Dân số**: Việt Nam là quốc gia đông
+
+Temperature=1.5, latency=3.72s
+Tất nhiên, tôi rất vui được chia sẻ một số sự thật thú vị về Việt Nam:
+
+1. **Di sản Thế giới**: Việt Nam có nhiều di sản được UNESCO công nhận, bao gồm Vịnh Hạ Long, Quần thể di tích Cố đô Huế, Phố cổ Hội An, và Thánh địa Mỹ Sơn.
+
+2. **Cà phê**: Việt Nam là nước sản xuất cà phê lớn thứ hai thế giới, chỉ sau Brazil. Cà phê sữa đá và cà phê trứng là hai món đồ uống rất phổ biến tại đây.
+
+3. **Văn hóa ẩm thực**: Phở, một món súp truyền thống của Việt Nam với bánh phở và thịt, thường là bò hoặc gà, được nhiều người trên thế giới yêu thích. Món ăn này thể hiện sự tinh tế và phong phú của ẩm thực Việt.
+
+4. **Lịch sử**: Việt Nam có một lịch sử dài và phức tạp với nhiều giai đoạn khác nhau, từ các vương quốc cổ đại đến thời kỳ thuộc địa và cuộc chiến tranh hiện đại. 
+
+5. **Thiên nhiên**: Việt Nam có một cảnh quan đa dạng với
+
+
+ex 2.1:
+PERSONA: Bạn là giáo viên tiểu học, giải thích thật đơn giản cho trẻ 8 tuổi.
+Blockchain giống như một cuốn sổ cái kỹ thuật số đặc biệt mà nhiều người có thể cùng đọc và viết vào. Hãy tưởng tượng cuốn sổ này được chia thành nhiều trang, và mỗi trang gọi là một "khối". Mỗi khối chứa thông tin,giống như những ghi chú hay hình vẽ mà chúng ta viết vào sổ.
+
+Điều đặc biệt là khi một trang trong cuốn sổ đã được viết đầy, nó sẽ được khóa lại và nối với trang tiếp theo. Mỗi trang đều có một mã đặc biệt để đảm bảo rằng không ai có thể thay đổi thông tin đã viết trước đó. Đây là lý do gọi là "chuỗi khối" (blockchain) - vì các trang được nối lại với nhau thành một chuỗi.
+
+Blockchain rất an toàn vì nhiều người cùng có bản sao của cuốn sổ này, và tất cả mọi người phải đồng ý với nhau về những gì được viết vào sổ. Điều này giúp đảm bảo rằng các thông tin trong cuốn sổ không bị thay đổi một cách gian lận.
+
+Tóm lại, blockchain là một cách để lưu trữ thông tin một cách an toàn và minh bạch, giống như một cuốn sổ mà nhiều người cùng
+
+PERSONA: Bạn là chuyên gia tài chính, trả lời chuyên sâu bằng thuật ngữ kỹ thuật.
+Blockchain là một cấu trúc dữ liệu phân tán và phi tập trung, được thiết kế để ghi lại các giao dịch theo cách đảm bảo tính minh bạch, an toàn và không thể thay đổi. Blockchain hoạt động như một sổ cái kỹ thuật số, nơi các giao dịch được ghi lại thành các "khối" và liên kết với nhau theo thứ tự thời gian, tạo thành một "chuỗi khối".
+
+### Các thành phần chính của blockchain:
+1. **Khối (Block):** Mỗi khối chứa một danh sách các giao dịch được xác minh, một con trỏ (hash) tới khối trước đó, và một mã hash riêng biệt. Một khối thường gồm 3 phần chính:
+   - **Dữ liệu giao dịch:** Bao gồm thông tin chi tiết về các giao dịch được thực hiện.
+   - **Hash của khối hiện tại:** Một mã định danh duy nhất cho khối, được tạo dựa trên dữ liệu trong khối.
+   - **Hash của khối trước:** Liên kết khối hiện tại với khối trước đó, tạo nên chuỗi liên tục.
+
+2. **Phi tập trung (Decentralization):** Thay vì lưu trữ dữ liệu trên một máy chủ
+
+ex 2.2:
+Words: 95
+Actual tokens: 107
+Word-based estimate: 126.67
+Difference: 15.53 %
+
+ex 3.1:
+>> '@ | .venv\Scripts\python.exe -
+You: Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+  File "E:\Hoc Tap\VIN AI\Lab\day1\K4-L3-Day1-AI-LLM-Foundation\template.py", line 296, in streaming_chatbot
+    user_input = input("You: ")
+                 ^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+ex 
